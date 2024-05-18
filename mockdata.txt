@@ -1,0 +1,3 @@
+method: variable.function()
+
+function: function(variable)

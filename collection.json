@@ -1,0 +1,12 @@
+{
+    "car1":
+    {
+        "brand": "brand-name",
+        "year": "model-year",
+        "capacity": "sitting-capacity",
+        "milage": "milage km/l",
+        "mechanigm": "automatic",
+        "fuel": "fuel type",
+        "rent": "rent $/month"
+    }
+}
