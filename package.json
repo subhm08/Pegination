@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://subhm08.github.io/Pegination/",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
