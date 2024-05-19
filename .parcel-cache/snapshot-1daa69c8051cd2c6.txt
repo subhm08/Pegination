@@ -10,7 +10,7 @@
 64E:\Mini projects\card\node_modules\source-map\lib\source-node.js133601580813502548 0
 59E:\Mini projects\card\node_modules\semver\functions\sort.js133601580816101421 0
 59E:\Mini projects\card\node_modules\fs.realpath\package.json133605941379881067 0
-34E:\Mini projects\card\package.json133605942227653651 0
+34E:\Mini projects\card\package.json133605943110661210 0
 81E:\Mini projects\card\node_modules\caniuse-lite\data\features\webkit-user-drag.js133601580823284374 0
 69E:\Mini projects\card\node_modules\svgo\plugins\convertShapeToPath.js133601580816641376 0
 44E:\Mini projects\card\node_modules\env-paths133601580811015110 1
